@@ -1,4 +1,5 @@
-# 🎮 Game Tracker App
+# 🎮 GameNexun
+Game Tracker App
 
 A personal, cross-platform video game collection and management app built by **Paxrisen** using **Flutter**.
 
