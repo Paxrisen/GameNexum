@@ -7,9 +7,12 @@ A personal, cross-platform video game collection and management app built by **P
 
 ---
 
+## 🔒 Privacy & Local Storage
+* **100% Offline App:** This is a purely local offline application. No data, stats, or personal information are sent, collected, or stored on any external servers or clouds. Everything stays securely on your device.
+
 ## ✨ Features
 
-* **Game Backlog & Collection:** Keep track of physical and digital games, platforms, and completion progress.
+* **Game Backlog & Collection:** Keep track of physical and digital games, platforms, and completion progress. *(Note: Games must be added and entered manually into the app).*
 * **Profile & Stats:** Monitor total playtime, completed games, platinums, and gamerscore.
 * **Custom Avatar & Platforms:** Manage custom user profiles and linked gaming accounts (PSN, Xbox, Steam, Nintendo, GoG, Epic).
 * **Multi-Language Support:** Fully available in **English** and **German** (can be easily switched directly in the profile area).
