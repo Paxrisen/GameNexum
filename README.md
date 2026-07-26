@@ -1,8 +1,14 @@
 # 🎮 Game Tracker App
 
-A personal, cross-platform video game collection and management app built with **Flutter**. 
+A personal, cross-platform video game collection and management app built by **Paxrisen** using **Flutter**.
+
+> ⚠️ **Copyright Notice / Proprietary Project**
+> This is a private project developed by **Paxrisen**. All rights reserved. This repository and its source code, binaries (APKs), and assets are strictly private. Unauthorized copying, modification, distribution, sharing, or public hosting of this software or any part of it is strictly prohibited without explicit permission from the author.
+
+---
 
 ## ✨ Features
+
 * **Game Backlog & Collection:** Keep track of physical and digital games, platforms, and completion progress.
 * **Profile & Stats:** Monitor total playtime, completed games, platinums, and gamerscore.
 * **Custom Avatar & Platforms:** Manage custom user profiles and linked gaming accounts (PSN, Xbox, Steam, Nintendo, GoG, Epic).
@@ -12,10 +18,13 @@ A personal, cross-platform video game collection and management app built with *
 * **Backup & Restore:** Export and import your data safely.
 
 ## 📊 Current Status (v1.0.0)
-* **Status:** Stable Release
+
+* **Author:** Paxrisen
+* **Status:** Stable Release (Private Project)
 * **Platform:** Android (APK available in the [Releases section]
 * **Languages:** English / German
 * **Next Steps:** Continuous UI polish and bug fixes.
 
 ---
+
 *Built with Flutter.*
