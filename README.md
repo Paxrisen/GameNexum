@@ -27,4 +27,4 @@ A personal, cross-platform video game collection and management app built by **P
 
 ---
 
-*Built with Flutter.*
+*Built with Flutter & AI.*
