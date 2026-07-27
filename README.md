@@ -17,7 +17,7 @@ A personal, cross-platform video game collection and management app built by **P
 * **Profile & Stats:** Monitor total playtime, completed games, platinums, and gamerscore.
 * **Custom Avatar & Platforms:** Manage custom user profiles and linked gaming accounts (PSN, Xbox, Steam, Nintendo, GoG, Epic).
 * **Multi-Language Support:** Fully available in **English** and **German** (can be easily switched directly in the profile area).
-* **Wishlist & Archive:** Separate games you want to buy or have already finished/sold.
+* **Wishlist & Archive:** Separate games you want to buy or have already sold.
 * **Dark Souls EXP System:** Fun leveling mechanic based on your progress and achievements.
 * **Backup & Restore:** Export and import your data safely.
 
