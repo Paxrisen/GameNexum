@@ -20,8 +20,8 @@ A personal, cross-platform video game collection and management app built by **P
 * **Wishlist & Archive:** Separate games you want to buy or have already sold.
 * **Dark Souls EXP System:** Fun leveling mechanic based on your progress and achievements.
 * **Backup & Restore:** Export and import your data safely.
-<img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203016.jpg?raw=true" alt="Beschreibung des Bildes" width="200">
 
+<img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203016.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203026.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203130.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203140.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203149.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203155.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203200.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203204.jpg?raw=true" alt="Beschreibung des Bildes" width="200">
 
 ## 📊 Current Status (v1.0.0)
 
