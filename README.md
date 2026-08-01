@@ -21,6 +21,9 @@ A personal, cross-platform video game collection and management app built by **P
 * **Dark Souls EXP System:** Fun leveling mechanic based on your progress and achievements.
 * **Backup & Restore:** Export and import your data safely.
 
+![Screen 1.](https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203016.jpg?raw=true)
+
+
 ## 📊 Current Status (v1.0.0)
 
 * **Author:** Paxrisen
