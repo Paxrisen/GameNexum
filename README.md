@@ -20,7 +20,7 @@ A personal, cross-platform video game collection and management app built by **P
 * **Wishlist & Archive:** Separate games you want to buy or have already sold.
 * **Dark Souls EXP System:** Fun leveling mechanic based on your progress and achievements.
 * **Backup & Restore:** Export and import your data safely.
-<img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203016.jpg?raw=true" alt="Beschreibung des Bildes" width="40">
+<img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203016.jpg?raw=true" alt="Beschreibung des Bildes" width="100">
 
 
 ## 📊 Current Status (v1.0.0)
