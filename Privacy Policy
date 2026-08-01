@@ -2,16 +2,20 @@
 
 Last updated: Juli 2026
 
-We take the protection of your data very seriously. This app is designed to manage your game collection locally on your device.
+We take the protection of your data very seriously. 
+This app is designed to manage your game collection locally on your device.
 
 ## 1. Data Collection
-This app stores all data (game collection, profile name, avatar path) exclusively locally on your device using 'Shared Preferences'. No data is transmitted to external servers.
+This app stores all data (game collection, profile name, avatar path) exclusively locally
+on your device using 'Shared Preferences'. No data is transmitted to external servers.
 
 ## 2. Permissions
-The app requires access to your storage/gallery to select game covers or a profile picture. These images are also stored locally on the device only.
+The app requires access to your storage/gallery to select game covers or a profile picture. 
+These images are also stored locally on the device only.
 
 ## 3. Third Parties
 No data is shared with third parties, sold, or used for advertising purposes.
 
 ## 4. Contact
-If you have any questions regarding data protection, you can contact the developer directly.
+If you have any questions regarding data protection, 
+you can contact the developer directly.
