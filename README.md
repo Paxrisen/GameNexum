@@ -23,12 +23,13 @@ A personal, cross-platform video game collection and management app built by **P
 
 <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203016.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203026.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203130.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203140.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203149.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203155.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203200.jpg?raw=true" alt="Beschreibung des Bildes" width="200"> <img src="https://github.com/Paxrisen/GameNexum/blob/main/Screenshot_20260801_203204.jpg?raw=true" alt="Beschreibung des Bildes" width="200">
 
-## 📊 Current Status (v1.0.0)
+## 📊 Current Status (v1.0.1)
 
 * **Author:** Paxrisen
 * **Status:** Stable Release (Private Project)
 * **Platform:** Android (APK available in the [Releases section]
-* **Languages:** English / German
+* **Languages:** English / German (with automatic system language detection and English fallback)
+* **Key Updates:** Cross-platform trophy synchronization (PS3, PS4, PS5, PS Vita), intelligent offline database for game title suggestions, and quick 100% / Platinum & DLC checkboxes.
 * **Next Steps:** Continuous UI polish and bug fixes.
 
 ---
