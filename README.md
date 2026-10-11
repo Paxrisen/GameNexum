@@ -32,3 +32,8 @@ A personal, cross-platform video game collection and management app built by **P
 ---
 
 *Built with Flutter & AI.*
+## Credits & Attribution
+
+* **Developer:** [Paxrisen / GitHub-Paxrisen]
+* **Co-Created with:** [Gemini](https://google.com) (AI Assistant for optimization and documentation)
+
