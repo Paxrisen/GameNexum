@@ -46,6 +46,17 @@ GameNexum is a powerful, privacy-first Flutter application designed to organize,
 
 ## 📜 Version History & Changelog
 
+### 🚀 What's New in Version 1.0.5
+
+* **🤖 AI Integration:** Smart assistant capabilities built directly into the app to help you manage your collection.
+* **📔 Journal & Notes:** A dedicated space for your personal game journal entries, thoughts, and progress stories.
+* **⏸️ Extended Progress Statuses:** New tracking options including *Paused* and *Cancelled* to keep your collection accurately organized.
+* **📸 & 🎬 Advanced Media Management:** 
+  * Separate, clean horizontal galleries for screenshots and videos.
+  * Pick and save video files directly from your smartphone's media library.
+  * Seamless external video playback using your device's native media player.
+* **🔒 Comprehensive Backups:** Full support for backing up all your new journal entries, screenshots, and videos seamlessly.
+
 ### 🚀 **v1.0.4 – Categories & Persistence Refinement**
 * **Dedicated Add Screens:** Restored full standalone creation screens (`AddHardwareScreen`, `AddHomebrewScreen`, `AddBookScreen`).
 * **Interactive Detail Screens:** Added click-through detail views and editing capabilities for Hardware, Homebrews, and Books.
