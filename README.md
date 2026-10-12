@@ -91,7 +91,7 @@ GameNexum is a powerful, privacy-first Flutter application designed to organize,
 
 You can download the latest official Android release (`.apk`) directly from the Releases page:
 
-👉 **[Download Latest Release (v1.0.4)](https://github.com/Paxrisen/GameNexum/releases)**
+👉 **[Download Latest Release (v1.0.5)](https://github.com/Paxrisen/GameNexum/releases)**
 
 ---
 
