@@ -104,4 +104,11 @@ You can download the latest official Android release (`.apk`) directly from the 
 
 ---
 
+## Community & Support
+Want to share feedback, report bugs, suggest new features, or just chat with other users? Join our community!
+
+👉 **[Join the GameNexum Discord Server](https://discord.gg/xkSFYMCgHH)**
+
+---
+
 Created with ❤️ for gamers and retro collectors by **[Paxrisen](https://github.com/Paxrisen)**.
