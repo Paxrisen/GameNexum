@@ -46,17 +46,16 @@ GameNexum is a powerful, privacy-first Flutter application designed to organize,
 
 ## 📜 Version History & Changelog
 
-### 🚀 What's New in Version 1.0.5
+### 🚀 GameNexum v1.0.6 - Backup System Fix & Improvements
 
-* **🤖 AI Integration:** Smart assistant capabilities built directly into the app to help you manage your collection.
-* **📔 Journal & Notes:** A dedicated space for your personal game journal entries, thoughts, and progress stories.
-* **⏸️ Extended Progress Statuses:** New tracking options including *Paused* and *Cancelled* to keep your collection accurately organized.
-* **📸 & 🎬 Advanced Media Management:** 
-  * Separate, clean horizontal galleries for screenshots and videos.
-  * Pick and save video files directly from your smartphone's media library.
-  * Seamless external video playback using your device's native media player.
-* **🔒 Comprehensive Backups:** Full support for backing up all your new journal entries, screenshots, and videos seamlessly.
+We are excited to release v1.0.6! This update addresses an important issue with the backup and restore system to ensure that all your collections are fully protected.
+🛠️ What's Fixed & Improved:
 
+    Complete Backup Coverage: Fixed the backup service to fully include and properly export/import all data and images for the newly introduced sections: Books, Hardware, and Homebrews.
+
+    Seamless Restoration: Restoring from a backup will now correctly populate all categories without leaving any section empty.
+
+Thank you for using GameNexum! If you encounter any further issues, feelfree to open an issue or reach out.
 ---
 
 ## 📥 Download & Installation
