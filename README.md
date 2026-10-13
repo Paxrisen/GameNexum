@@ -57,34 +57,6 @@ GameNexum is a powerful, privacy-first Flutter application designed to organize,
   * Seamless external video playback using your device's native media player.
 * **🔒 Comprehensive Backups:** Full support for backing up all your new journal entries, screenshots, and videos seamlessly.
 
-### 🚀 **v1.0.4 – Categories & Persistence Refinement**
-* **Dedicated Add Screens:** Restored full standalone creation screens (`AddHardwareScreen`, `AddHomebrewScreen`, `AddBookScreen`).
-* **Interactive Detail Screens:** Added click-through detail views and editing capabilities for Hardware, Homebrews, and Books.
-* **A-Z Auto Sorting:** Integrated automatic alphabetical sorting across all new categories.
-* **Extended Book Statuses:** Added *"Paused"* and *"Dropped"* options with full translation support.
-* **Seasonal Theme Persistence:** Theme toggles now save persistently across app restarts.
-* **Book Wall:** Added a visual grid wall for gaming books, accessible from the Profile screen.
-
-### 🛠️ **v1.0.3 – Cross-Platform Sync & Dark Souls Overhaul**
-* **Linked Game Sync:** Two-way synchronization between primary games and linked multi-platform releases.
-* **Updated Souls Leveling:** Added XP rewards for Hardware, Homebrews, and Gaming Books.
-* **Image Persistence Fixes:** Enforced permanent local image storage to avoid missing cover art.
-* **Archive & Sold Items:** Added support for archiving sold games, hardware, and books.
-
-### 🌟 **v1.0.2 – Visual Expansion & Multi-Language**
-* **Game Wall Screen:** Introduced a high-density grid view of all collected game covers.
-* **Platform Stats:** Added platform distribution charts and breakdown metrics.
-* **German & English Localization:** Full multi-language integration with easy language switching.
-
-### 🐣 **v1.0.1 – Seasonal Themes & Wishlist**
-* **Seasonal Particle Effects:** Introduced dynamic animations for Halloween, Christmas, New Year, and Easter.
-* **Wishlist Manager:** Dedicated tab for tracking games you plan to buy.
-
-### 🎉 **v1.0.0 – Initial Release**
-* Core game tracking, local backup system, Dark Souls EXP system, and dark UI implementation.
-
----
-
 ---
 
 ## 📥 Download & Installation
