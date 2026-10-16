@@ -62,7 +62,7 @@ Thank you for using GameNexum! If you encounter any further issues, feelfree to 
 
 You can download the latest official Android release (`.apk`) directly from the Releases page:
 
-👉 **[Download Latest Release (v1.0.5)](https://github.com/Paxrisen/GameNexum/releases)**
+👉 **[Download Latest Release (v1.0.6)](https://github.com/Paxrisen/GameNexum/releases)**
 
 ---
 
